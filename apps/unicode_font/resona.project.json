@@ -1,0 +1,10 @@
+{
+  "name": "App-owned Unicode font",
+  "id": "org.resona.example.unicode-font",
+  "version": "0.1.0",
+  "api": 1,
+  "kind": "app",
+  "sources": [
+    "src/app.cpp"
+  ]
+}

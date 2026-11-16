@@ -1,0 +1,1 @@
+{"name":"Flexible Code","id":"org.resona.example.flexible-code","version":"0.1.0","api":1,"sources":["src/main.cpp"],"description":"Explicit PSRAM code placement with a lookup image larger than 128 KiB."}

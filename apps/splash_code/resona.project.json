@@ -1,0 +1,1 @@
+{"name":"Splash in Code","id":"org.resona.app.splash_code","version":"0.1.0","api":1,"kind":"app","description":"Build startup frames in C++ and safely apply changes once; no setup window.","sources":["src/app.cpp"]}

@@ -1,0 +1,9 @@
+{
+  "name": "Crash Test",
+  "id": "org.resona.test.crash",
+  "version": "0.1.0",
+  "api": 1,
+  "kind": "app",
+  "description": "Faults in init on purpose: the box must come back in safe mode, not stay down.",
+  "sources": ["src/app.cpp"]
+}

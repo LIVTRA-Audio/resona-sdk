@@ -1,0 +1,10 @@
+{
+  "name": "UI Stress",
+  "id": "org.resona.test.ui-stress",
+  "version": "0.1.0",
+  "api": 1,
+  "description": "",
+  "sources": [
+    "src/module.cpp"
+  ]
+}

@@ -1,0 +1,1 @@
+{"name":"Startup Studio","id":"org.resona.app.startup_studio","version":"0.1.0","api":1,"kind":"app","description":"Inspect startup settings; explicitly install names or a splash using the protected API.","sources":["src/app.cpp"]}

@@ -1,0 +1,8 @@
+{
+  "id": "app-blank",
+  "title": "Box app: blank",
+  "kind": "app",
+  "from": "apps/hello",
+  "summary": "The smallest box app: draws a screen, reacts to the encoders, keeps a value across reboots.",
+  "open": "src/app.cpp"
+}

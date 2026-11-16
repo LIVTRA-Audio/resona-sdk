@@ -1,0 +1,8 @@
+{
+  "name": "App event contract",
+  "id": "org.resona.test.app-events",
+  "version": "0.1.0",
+  "api": 1,
+  "kind": "app",
+  "sources": ["src/app.c"]
+}

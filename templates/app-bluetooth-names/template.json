@@ -1,0 +1,1 @@
+{"id": "app-bluetooth-names", "title": "Box app: Bluetooth Names", "summary": "Set audio and MIDI names in source; reconnect power to apply.", "kind": "app", "from": "apps/bluetooth_names", "open": "src/app.cpp"}

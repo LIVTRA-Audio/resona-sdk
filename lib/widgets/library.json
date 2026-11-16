@@ -1,0 +1,6 @@
+{
+  "description": "Box UI widget kit in the factory App's style: pixel font, value tiles, list, page dots, toast, encoder focus. No allocation.",
+  "sources": [
+    "box_ui.c"
+  ]
+}

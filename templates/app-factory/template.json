@@ -1,0 +1,8 @@
+{
+  "id": "app-factory",
+  "title": "Box app: Resona factory UI",
+  "kind": "app",
+  "from": "apps/resona_factory",
+  "summary": "The Resona Box's own UI and operation logic (pages, presets, settings, Global EQ, encoders), ready to change.",
+  "open": "src/factory.c"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "instrument",
+  "title": "Instrument",
+  "summary": "C++ module with no input: an oscillator whose pitch and level you set.",
+  "sources": ["src/dsp.cpp", "src/ui.cpp", "src/main.cpp"],
+  "open": "src/dsp.cpp"
+}

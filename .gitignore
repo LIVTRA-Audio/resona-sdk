@@ -1,0 +1,43 @@
+# Generated project/compiler output, at any depth.
+build/
+target/
+dist/
+__pycache__/
+*.py[cod]
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.elf
+*.map
+*.rpk
+*.rmod
+
+# Firmware, model payloads and credentials do not belong in the public SDK.
+firmware/
+*.itb
+*.img
+*.bin
+*.fmu
+*.ufw
+*.ead
+*.nam
+*.key
+*.pem
+*.der
+*.p12
+*.pfx
+.env
+.env.*
+
+# Local machine/editor state.
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo

@@ -1,0 +1,9 @@
+{
+  "name": "Synth Box",
+  "id": "org.resona.app.synth-box",
+  "version": "0.1.0",
+  "api": 1,
+  "kind": "app",
+  "description": "Turns the Resona Box into a little synthesizer: Tiny Synth in the first block, an 8-step sequencer, a keyboard on screen, MIDI notes in.",
+  "sources": ["src/app.cpp"]
+}

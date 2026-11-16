@@ -1,0 +1,8 @@
+{
+  "name": "Format and EQ contract",
+  "id": "org.resona.test.format-eq",
+  "version": "0.1.0",
+  "api": 1,
+  "kind": "app",
+  "sources": ["src/app.c"]
+}

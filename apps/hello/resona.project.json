@@ -1,0 +1,11 @@
+{
+  "name": "Hello Box",
+  "id": "org.resona.app.hello",
+  "version": "0.1.0",
+  "api": 1,
+  "kind": "app",
+  "description": "The smallest box app: draws, counts encoder turns, keeps a number across reboots.",
+  "sources": [
+    "src/app.cpp"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Debug Print",
+  "id": "org.resona.example.debug_print",
+  "version": "0.1.0",
+  "api": 1,
+  "description": "Print startup messages to the USB Serial Monitor while passing audio through",
+  "sources": ["src/main.cpp"]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "UI Kit",
+  "id": "org.resona.example.widgets",
+  "version": "0.2.0",
+  "api": 1,
+  "description": "Resona SDK example: every screen widget, driven by the two encoders",
+  "sources": [
+    "src/dsp.cpp",
+    "src/ui.cpp",
+    "src/main.cpp"
+  ]
+}

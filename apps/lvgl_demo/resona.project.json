@@ -1,0 +1,14 @@
+{
+  "name": "LVGL Demo",
+  "id": "org.resona.app.lvgl_demo",
+  "version": "0.1.0",
+  "api": 1,
+  "kind": "app",
+  "description": "The optional LVGL 9 port (sdk/lib/lvgl_port): a label, a slider on Encoder 2 and a button list on Encoder 1. LVGL is compiled into the App.",
+  "sources": [
+    "src/app.c"
+  ],
+  "libraries": [
+    "lvgl_port"
+  ]
+}

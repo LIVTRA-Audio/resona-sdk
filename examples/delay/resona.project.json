@@ -1,0 +1,12 @@
+{
+  "name": "Delay",
+  "id": "org.resona.example.delay",
+  "version": "0.1.0",
+  "api": 1,
+  "description": "Resona SDK example: delay, a feedback delay line in host-owned state",
+  "sources": [
+    "src/dsp.cpp",
+    "src/ui.cpp",
+    "src/main.cpp"
+  ]
+}

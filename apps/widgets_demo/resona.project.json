@@ -1,0 +1,14 @@
+{
+  "name": "Widgets Demo",
+  "id": "org.resona.app.widgets_demo",
+  "version": "0.1.0",
+  "api": 1,
+  "kind": "app",
+  "description": "The Box UI widget kit (sdk/lib/widgets): value tiles, a list, page dots, a toast and encoder focus.",
+  "sources": [
+    "src/app.c"
+  ],
+  "libraries": [
+    "widgets"
+  ]
+}

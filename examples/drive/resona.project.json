@@ -1,0 +1,12 @@
+{
+  "name": "Drive",
+  "id": "org.resona.example.drive",
+  "version": "0.1.0",
+  "api": 1,
+  "description": "Resona SDK example: drive, a soft saturator",
+  "sources": [
+    "src/dsp.cpp",
+    "src/ui.cpp",
+    "src/main.cpp"
+  ]
+}

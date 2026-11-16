@@ -1,0 +1,8 @@
+{
+  "id": "app-synth",
+  "title": "Box app: synth",
+  "kind": "app",
+  "from": "apps/synth_box",
+  "summary": "Turns the box into a synthesizer: plays a synth effect in its own effect graph, with a step sequencer, a keyboard page and MIDI notes in.",
+  "open": "src/app.cpp"
+}

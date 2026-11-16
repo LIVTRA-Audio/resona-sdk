@@ -1,0 +1,8 @@
+{
+  "name": "Memory Delay",
+  "id": "org.resona.example.memory-delay",
+  "version": "0.1.0",
+  "api": 1,
+  "description": "Explicit fast SRAM workspace and PSRAM delay buffers",
+  "sources": ["src/main.cpp"]
+}

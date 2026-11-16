@@ -1,0 +1,11 @@
+{
+  "name": "Bluetooth Names in Code",
+  "id": "org.resona.app.bluetooth_names",
+  "version": "0.1.0",
+  "api": 1,
+  "kind": "app",
+  "description": "Set persistent Bluetooth names from source; apply with a full power cycle.",
+  "sources": [
+    "src/app.cpp"
+  ]
+}

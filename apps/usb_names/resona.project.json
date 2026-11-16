@@ -1,0 +1,1 @@
+{"name":"USB Names in Code","id":"org.resona.app.usb_names","version":"0.1.0","api":1,"kind":"app","description":"Declare USB names in source; safely apply a managed profile once without a settings window.","sources":["src/app.cpp"]}

@@ -1,0 +1,12 @@
+{
+  "name": "CPU Workload",
+  "id": "org.resona.example.cpu-workload",
+  "version": "0.1.0",
+  "api": 1,
+  "description": "Synth CPU qualification: active voice, mode transition and release tail; preview starts silent.",
+  "sources": [
+    "src/dsp.cpp",
+    "src/ui.cpp",
+    "src/main.cpp"
+  ]
+}

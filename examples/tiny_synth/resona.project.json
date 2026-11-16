@@ -1,0 +1,12 @@
+{
+  "name": "Tiny Synth",
+  "id": "org.resona.example.tiny-synth",
+  "version": "0.1.0",
+  "api": 1,
+  "description": "A mono subtractive synth played through parameters (NOTE, GATE): saw/square/sine, glide, resonant low-pass, attack/release.",
+  "sources": [
+    "src/dsp.cpp",
+    "src/ui.cpp",
+    "src/main.cpp"
+  ]
+}

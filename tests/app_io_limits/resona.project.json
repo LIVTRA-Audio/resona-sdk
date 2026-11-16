@@ -1,0 +1,10 @@
+{
+  "name": "App IO limits",
+  "id": "org.resona.test.app-io-limits",
+  "version": "0.1.0",
+  "api": 1,
+  "kind": "app",
+  "sources": [
+    "src/app.c"
+  ]
+}

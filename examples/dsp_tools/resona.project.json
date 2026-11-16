@@ -1,0 +1,1 @@
+{"name":"DSP Tools","id":"org.resona.example.dsp-tools","version":"0.1.0","api":1,"description":"Portable and native DSP kernels with named profiling regions","sources":["src/main.cpp"]}

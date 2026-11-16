@@ -1,0 +1,12 @@
+{
+  "name": "Gain",
+  "id": "org.resona.example.gain",
+  "version": "0.1.0",
+  "api": 1,
+  "description": "Resona SDK example: gain, the smallest useful module",
+  "sources": [
+    "src/dsp.cpp",
+    "src/ui.cpp",
+    "src/main.cpp"
+  ]
+}

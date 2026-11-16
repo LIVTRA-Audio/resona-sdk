@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "graph": {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "input",
+        "kind": "input",
+        "x": 0.0,
+        "y": 0.0,
+        "params": {},
+        "expose": {},
+        "options": {}
+      },
+      {
+        "id": "drive1",
+        "kind": "drive",
+        "x": 0.0,
+        "y": 0.0,
+        "params": {
+          "drive": 12.0,
+          "level": 0.0
+        },
+        "expose": {
+          "drive": true,
+          "level": false
+        },
+        "options": {}
+      },
+      {
+        "id": "mixer1",
+        "kind": "mixer",
+        "x": 0.0,
+        "y": 0.0,
+        "params": {
+          "mix": 100.0
+        },
+        "expose": {
+          "mix": true
+        },
+        "options": {}
+      },
+      {
+        "id": "gain1",
+        "kind": "gain",
+        "x": 0.0,
+        "y": 0.0,
+        "params": {
+          "level": -6.0
+        },
+        "expose": {
+          "level": true
+        },
+        "options": {}
+      },
+      {
+        "id": "output",
+        "kind": "output",
+        "x": 0.0,
+        "y": 0.0,
+        "params": {},
+        "expose": {},
+        "options": {}
+      }
+    ],
+    "cables": [
+      {
+        "from": "input.out",
+        "to": "drive1.in"
+      },
+      {
+        "from": "input.out",
+        "to": "mixer1.a"
+      },
+      {
+        "from": "drive1.out",
+        "to": "mixer1.b"
+      },
+      {
+        "from": "mixer1.out",
+        "to": "gain1.in"
+      },
+      {
+        "from": "gain1.out",
+        "to": "output.in"
+      }
+    ]
+  },
+  "synced": {
+    "flow": "9a50ee567558d89a",
+    "code": "451351da090c202e"
+  }
+}
